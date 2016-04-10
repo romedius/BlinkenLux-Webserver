@@ -12,8 +12,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid = "it-syndikat";
-const char* password = "spaceInvasion16";
+const char* ssid = "ssid";
+const char* password = "iAmAPassword";
 //const char* ssid = "Heimnetz";
 //const char* password = "Hallo321123A";
 
